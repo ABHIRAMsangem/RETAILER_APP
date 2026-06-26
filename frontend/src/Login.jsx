@@ -53,5 +53,6 @@ function Login({onLoginSuccess}) {
             </form>
         </div>
     );
-    export default Login;
 }
+
+export default Login;
